@@ -348,8 +348,8 @@ a.arrow-right:hover path {
   transform: scale(1.2);
 }
 
-.link--avatar.katja::before {
-  background-image: url('/assets/img/KatjaHager-Avatar.jpg');
+.link--avatar.tobija::before {
+  background-image: url('/assets/img/TobijaFischer-Avatar.jpg');
   border-radius: 50%;
 }
 
